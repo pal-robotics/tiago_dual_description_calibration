@@ -2,7 +2,7 @@
 <package>
 
   <name>tiago_dual_description_calibration</name>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
   <description>This package contains the description of the hand-eye calibration of the TIAGO dual robot.  The files in this package are used also from the tiago_dual_description package.</description>
   <maintainer email="alessandro.difava@pal-robotics.com">Alessandro Di Fava</maintainer>
   <maintainer email="jordi.pages@pal-robotics.com">Jordi Pages</maintainer>
