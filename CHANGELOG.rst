@@ -2,6 +2,15 @@
 Changelog for package tiago_dual_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'fix-orbbec-astra' into 'master'
+  Fix orbbec astra frames
+  See merge request robots/tiago_dual_description_calibration!1
+* Use baseline for orbbec between rgb and depth
+* Fix orbbec astra frames
+* Contributors: Victor Lopez, victor
+
 0.0.8 (2020-05-08)
 ------------------
 
