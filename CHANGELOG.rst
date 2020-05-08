@@ -2,8 +2,8 @@
 Changelog for package tiago_dual_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.9 (2020-05-08)
+------------------
 * Merge branch 'fix-orbbec-astra' into 'master'
   Fix orbbec astra frames
   See merge request robots/tiago_dual_description_calibration!1
